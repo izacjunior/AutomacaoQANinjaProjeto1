@@ -1,0 +1,23 @@
+{
+  "name": "automacaoqaninjaprojeto1",
+  "version": "1.0.0",
+  "description": "Pacotes npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izacjunior/AutomacaoQANinjaProjeto1.git"
+  },
+  "keywords": [
+    "qaninja",
+    "automacao"
+  ],
+  "author": "Izac Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izacjunior/AutomacaoQANinjaProjeto1/issues"
+  },
+  "homepage": "https://github.com/izacjunior/AutomacaoQANinjaProjeto1#readme"
+}
